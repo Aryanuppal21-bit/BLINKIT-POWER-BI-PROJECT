@@ -1,5 +1,5 @@
 # BLINKIT-POWER-BI-PROJECT
-POWER BI DASHBOARD
+
 I developed a comprehensive Power BI dashboard for Blinkit, the online grocery delivery service. It provided actionable insights to help Blinkit optimize their delivery routes, manage stock levels, and improve customer experience. I had the opportunity to dive deep into Blinkit's data, creating insightful visualizations that provide a comprehensive overview of their operations. Here's what I've visualized:
 
 Total Sales: Tracking overall revenue trends
